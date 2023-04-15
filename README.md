@@ -56,6 +56,9 @@ Enregistrement en cours...
 Total des frais: 3.7 gaz
 ```
 
+Note : Vous pouvez exécuter la commande `npm test` dans votre terminal pour vérifier que votre code tourne par rapport à un jeu de test prédéfini.
+
+
 ## FAQ - Comment créer un repo from scratch
 
 1. créer le dossier et ce placer dedans
